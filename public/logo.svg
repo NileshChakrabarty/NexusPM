@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="10" fill="url(#nexus-grad)" />
+  <path d="M12 28L12 12L28 28L28 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="12" r="3" fill="#38bdf8" />
+  <circle cx="12" cy="28" r="3" fill="#818cf8" />
+  <defs>
+    <linearGradient id="nexus-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4f46e5" />
+      <stop offset="0.5" stop-color="#6366f1" />
+      <stop offset="1" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+</svg>
+
